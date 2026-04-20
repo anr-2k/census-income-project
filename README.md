@@ -57,7 +57,7 @@ census-income-project/
 │
 ├── census-income-classification.ipynb    # EDA, preprocessing, and classification model
 ├── census-income-segmentation.ipynb      # Segmentation model
-├── project_report.docx                   # Full project report with charts
+├── project_report.pdf                   # Full project report with charts
 └── README.md                             # This file
 ```
 
@@ -107,7 +107,7 @@ Open `census-income-classification.ipynb` and run all cells top to bottom.
 9. Threshold Tuning — optimal threshold from precision-recall curve
 10. Final Model Comparison — all models compared on Recall, Precision, F1, ROC-AUC
 
-**Expected runtime:** 20-40 minutes (hyperparameter tuning is the slowest step)
+**Expected runtime:** 20-30 minutes (hyperparameter tuning is the slowest step)
 
 ### Step 3 — Run the Segmentation Notebook
 
@@ -123,7 +123,7 @@ Open `census-income-segmentation.ipynb` and run all cells top to bottom.
 7. Cluster Profiling — mean/mode statistics per cluster
 8. Visualization — PCA scatter plots and feature comparison charts
 
-**Expected runtime:** 10-20 minutes
+**Expected runtime:** 5-10 minutes
 
 ### File Path Note
 

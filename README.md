@@ -57,7 +57,7 @@ census-income-project/
 │
 ├── census-income-classification.ipynb    # EDA, preprocessing, and classification model
 ├── census-income-segmentation.ipynb      # Segmentation model
-├── project_report.pdf                   # Full project report with charts
+├── project_report.pdf                    # Full project report with charts
 └── README.md                             # This file
 ```
 
